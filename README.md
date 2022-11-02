@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project is a Java TCP socket program that transfers files from a client to a server. Once the file has been transfered to the server, it is saved in to the current directory. This program is meant for transferring X.509 self-signed certificates from a client to a server, but can be used for transferring any file type. The program will prompt for the certificate's path, transfer to server, and save the certificate as "domain2.crt".
+This project is a Java TCP socket program that transfers files from a client to a server. Once the file has been transferred to the server, it is saved in to the current directory. This program is meant for transferring X.509 self-signed certificates from a client to a server, but can be used for transferring any file type. The program will prompt for the certificate's path, transfer to server, and save the certificate as "domain2.crt".
 <br />
 
 
