@@ -8,7 +8,8 @@ This project is a Java TCP socket program that transfers files from a client to 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Java</b> 
+- <b>Java</b>
+- <b>VS Code</b> 
 
 <h2>Environments Used </h2>
 
